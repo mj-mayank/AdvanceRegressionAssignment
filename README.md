@@ -12,7 +12,7 @@ The assignemnt is divided into below sections:
   - Visualising the data and performing EDA
   - Data preparation(adding dummy variables, diving into train and test data)
   - Data modelling using Ridge and Lasso methods
-  - Finding optimum alpha for both
+  - Finding optimum alpha
   - Residual Analysis
   - Making predictions using final model(model 11 in this case)
   - Final Outcome
